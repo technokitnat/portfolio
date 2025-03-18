@@ -6,3 +6,5 @@
 
 Треним дальше
 + gk.c tot cnhjrb
+
+Добиваем revert
